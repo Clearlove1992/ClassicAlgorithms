@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" assignedExecutableTargets="true" buildAllGenerated="true">
     <generated>
-      <config projectName="QuickSort" targetName="QuickSort" />
+      <config projectName="FindKMin" targetName="FindKMin" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="false" GENERATION_PASS_SYSTEM_ENVIRONMENT="true">
@@ -11,8 +11,8 @@
     </ADDITIONAL_GENERATION_ENVIRONMENT>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff013db2-3e9e-4c89-a4e6-31672f49eeed" name="Default" comment="" />
-    <ignored path="QuickSort.iws" />
+    <list default="true" id="edc5f51d-7500-4565-9bec-0c413c024476" name="Default" comment="" />
+    <ignored path="FindKMin.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,7 +26,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="QuickSort" />
+    <favorites_list name="FindKMin" />
   </component>
   <component name="FileEditorManager">
     <leaf>
@@ -43,12 +43,11 @@
       <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+            <state relative-caret-position="774">
+              <caret line="43" column="34" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
               <folding>
-                <element signature="e#98#107#0" expanded="true" />
-                <element signature="e#184#193#0" expanded="true" />
-                <element signature="e#622#631#0" expanded="true" />
+                <element signature="e#51#60#0" expanded="true" />
+                <element signature="e#138#147#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -104,7 +103,7 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="QuickSort" />
+              <option name="myItemId" value="FindKMin" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -115,8 +114,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="Application.QuickSort">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QuickSort" TARGET_NAME="QuickSort" CONFIG_NAME="Debug">
+  <component name="RunManager" selected="Application.FindKMin">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FindKMin" TARGET_NAME="FindKMin" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
@@ -124,13 +123,13 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="QuickSort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QuickSort" TARGET_NAME="QuickSort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QuickSort" RUN_TARGET_NAME="QuickSort">
+    <configuration default="false" name="FindKMin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FindKMin" TARGET_NAME="FindKMin" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="FindKMin" RUN_TARGET_NAME="FindKMin">
       <envs />
       <method />
     </configuration>
     <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
-      <item index="1" class="java.lang.String" itemvalue="Application.QuickSort" />
+      <item index="1" class="java.lang.String" itemvalue="Application.FindKMin" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -138,23 +137,23 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ff013db2-3e9e-4c89-a4e6-31672f49eeed" name="Default" comment="" />
-      <created>1473664930272</created>
+      <changelist id="edc5f51d-7500-4565-9bec-0c413c024476" name="Default" comment="" />
+      <created>1473667338266</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1473664930272</updated>
-      <workItem from="1473664931830" duration="2406000" />
+      <updated>1473667338266</updated>
+      <workItem from="1473667339751" duration="1715000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2406000" />
+    <option name="totallyTimeSpent" value="1715000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.086792454" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959569" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994923" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -200,12 +199,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+        <state relative-caret-position="774">
+          <caret line="43" column="34" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
           <folding>
-            <element signature="e#98#107#0" expanded="true" />
-            <element signature="e#184#193#0" expanded="true" />
-            <element signature="e#622#631#0" expanded="true" />
+            <element signature="e#51#60#0" expanded="true" />
+            <element signature="e#138#147#0" expanded="true" />
           </folding>
         </state>
       </provider>
